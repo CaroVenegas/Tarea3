@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c71c066-a46e-40ca-be78-84f38ef3f1f1" name="Default Changelist" comment="" />
+    <list default="true" id="5c71c066-a46e-40ca-be78-84f38ef3f1f1" name="Default Changelist" comment="prueba">
+      <change afterPath="$PROJECT_DIR$/src/main/java/apiTest/DummyRestApiExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restAssuredClass.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,6 +39,51 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
+  <component name="RunManager" selected="TestNG.DummyRestApiExample.CreateOneEmployee">
+    <configuration name="DummyRestApiExample.CreateOneEmployee" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Tarea3" />
+      <option name="PACKAGE_NAME" value="apiTest" />
+      <option name="MAIN_CLASS_NAME" value="apiTest.DummyRestApiExample" />
+      <option name="METHOD_NAME" value="CreateOneEmployee" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DummyRestApiExample.GetOneEmpReturnsCorrectDataAndStatusCode200" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Tarea3" />
+      <option name="PACKAGE_NAME" value="apiTest" />
+      <option name="MAIN_CLASS_NAME" value="apiTest.DummyRestApiExample" />
+      <option name="METHOD_NAME" value="GetOneEmpReturnsCorrectDataAndStatusCode200" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DummyRestApiExample.GetallEmployessReturns200Code" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Tarea3" />
+      <option name="PACKAGE_NAME" value="apiTest" />
+      <option name="MAIN_CLASS_NAME" value="apiTest.DummyRestApiExample" />
+      <option name="METHOD_NAME" value="GetallEmployessReturns200Code" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DummyRestApiExample.CreateOneEmployee" />
+        <item itemvalue="TestNG.DummyRestApiExample.GetOneEmpReturnsCorrectDataAndStatusCode200" />
+        <item itemvalue="TestNG.DummyRestApiExample.GetallEmployessReturns200Code" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -39,5 +96,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="prueba" />
+    <option name="LAST_COMMIT_MESSAGE" value="prueba" />
   </component>
 </project>
