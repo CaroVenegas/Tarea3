@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c71c066-a46e-40ca-be78-84f38ef3f1f1" name="Default Changelist" comment="prueba">
-      <change afterPath="$PROJECT_DIR$/src/main/java/apiTest/DummyRestApiExample.java" afterDir="false" />
+    <list default="true" id="5c71c066-a46e-40ca-be78-84f38ef3f1f1" name="Default Changelist" comment="tarea3">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataEntities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/DataHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restAssuredClass.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/apiTest/DummyRestApiExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/apiTest/DummyRestApiExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/apiTest/DummyRestApiExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/apiTest/DummyRestApiExample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +39,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="apiTest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\tarea3" />
+    </key>
   </component>
   <component name="RunManager" selected="TestNG.DummyRestApiExample.CreateOneEmployee">
     <configuration name="DummyRestApiExample.CreateOneEmployee" type="TestNG" temporary="true" nameIsGenerated="true">
@@ -45,6 +58,18 @@
       <option name="PACKAGE_NAME" value="apiTest" />
       <option name="MAIN_CLASS_NAME" value="apiTest.DummyRestApiExample" />
       <option name="METHOD_NAME" value="CreateOneEmployee" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DummyRestApiExample.DeleteAnEmployeeRecord" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Tarea3" />
+      <option name="PACKAGE_NAME" value="apiTest" />
+      <option name="MAIN_CLASS_NAME" value="apiTest.DummyRestApiExample" />
+      <option name="METHOD_NAME" value="DeleteAnEmployeeRecord" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -79,6 +104,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.DummyRestApiExample.CreateOneEmployee" />
+        <item itemvalue="TestNG.DummyRestApiExample.DeleteAnEmployeeRecord" />
         <item itemvalue="TestNG.DummyRestApiExample.GetOneEmpReturnsCorrectDataAndStatusCode200" />
         <item itemvalue="TestNG.DummyRestApiExample.GetallEmployessReturns200Code" />
       </list>
@@ -99,6 +125,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prueba" />
-    <option name="LAST_COMMIT_MESSAGE" value="prueba" />
+    <MESSAGE value="clase7" />
+    <MESSAGE value="tarea3" />
+    <option name="LAST_COMMIT_MESSAGE" value="tarea3" />
   </component>
 </project>
