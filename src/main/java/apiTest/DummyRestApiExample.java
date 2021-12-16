@@ -75,7 +75,6 @@ public class DummyRestApiExample {
                 spec(requestSpecification.body(employee)).
                 post("create").
                 then().
-                then().
                 spec(responseSpecification).
                 log().body();
     }
